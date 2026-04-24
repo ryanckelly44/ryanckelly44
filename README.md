@@ -23,7 +23,7 @@ I'm working on it.
   <br>
   <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ryanckelly44/ryanckelly44/output/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ryanckelly44/ryanckelly44/output/github-snake.svg" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ryanckelly44/ryanckelly44/output/github-snake.svg" />
   <img alt="github-contribution-grid-snake" src="https://raw.githubusercontent.com/ryanckelly44/ryanckelly44/output/github-snake.svg" />
 </picture>
   <br><em>It'll get better... 🐍</em>
