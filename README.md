@@ -2,7 +2,7 @@
 **ryanckelly44/ryanckelly44* is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
 # Ryan Kelly <img src="https://iam-weijie.github.io/wave/hand-emoji.svg" alt="Animated Emoji" width="50" height="50">
-**🧬 Bioinformatician | 💻 Data Science | 🐭 Mouse Genetics | 🧫 Organoid Modelling**
+**🧬 Bioinformatician | 💻 NGS | 🐭 Mouse Genetics | 🧫 Organoid Modelling**
 
 I'm working on it.
 
@@ -10,7 +10,7 @@ I'm working on it.
 
 <div align="center">
 
-![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=70A5FD&lines=PhD+Student;Bioinformatician;NGS+Enthusiast;R+Developer)
+![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=70A5FD&lines=PhD+Student;Bioinformatician+Data+Scientist;NGS+Omics+Specialist;R+Enthusiast;Python+Enthusiast;Linux+Enthusiast)
 
 <br>
 
@@ -19,11 +19,11 @@ I'm working on it.
 <br>
 
 <img src="https://github-readme-stats.vercel.app/api?username=ryanckelly44&show_icons=true&theme=tokyonight" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ryanckelly44&layout=compact&theme=tokyonight&count_private=true" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ryanckelly44&layout=compact&theme=tokyonight" />
 
 <br>
 
-<img src="https://github-profile-trophy.vercel.app/?username=ryanckelly44&theme=tokyonight&no-bg=true" />
+<img src="https://streak-stats.demolab.com?user=ryanckelly44&theme=tokyonight" />
 
 <br>
 
