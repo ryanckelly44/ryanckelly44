@@ -28,7 +28,7 @@ jobs:
           github_user_name: ryanckelly44
           outputs: |
             dist/github-contribution-grid-snake.svg
-            dist/github-contribution-grid-snake.gif
+            dist/github-contribution-grid-snake-dark.svg?palette=github-dark
 
       # Show status for debugging
       - run: git status
