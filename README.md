@@ -1,8 +1,10 @@
 <!--
 **ryanckelly44/ryanckelly44* is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
+<div align="center">
+
 # Ryan Kelly <img src="https://iam-weijie.github.io/wave/hand-emoji.svg" alt="Animated Emoji" width="50" height="50">
-**🧬 Bioinformatician | 💻 NGS | 🐭 Mouse Genetics | 🧫 Organoid Modelling**
+**💻 Data Science | 🧬 Bioinformatician  | 🐭 Mouse Genetics | 🧫 Organoid Modelling**
 
 I'm working on it.
 
@@ -10,9 +12,7 @@ I'm working on it.
 
 <div align="center">
 
-![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=70A5FD&lines=PhD+Student;Bioinformatician+Data+Scientist;NGS+Omics+Specialist;R+Enthusiast;Python+Enthusiast;Linux+Enthusiast)
-
-<br>
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=2000&pause=1000&color=3518F7&random=true&width=450&lines=Bioinformatician+%26+Data+Scientist;NGS+Omics+Specialist;R,+Python+%26+Linux+Enthusiast;Former+wet-lab+scientist)](https://git.io/typing-svg)
 
 [![My Skills](https://skillicons.dev/icons?i=r,py,anaconda,github,ai,vscode)](https://skillicons.dev)
 
