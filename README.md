@@ -22,9 +22,9 @@ I'm working on it.
   [![My Skills](https://skillicons.dev/icons?i=r,py,anaconda,github,ai,vscode)](https://skillicons.dev)
   <br>
   <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ryanckelly44/ryanckelly44/output/github-contribution-grid-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ryanckelly44/ryanckelly44/output/github-contribution-grid-snake.svg" />
-  <img alt="My GitHub contributions snake" src="https://raw.githubusercontent.com/ryanckelly44/ryanckelly44/output/github-contribution-grid-snake.svg" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ryanckelly44/ryanckelly44/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ryanckelly44/ryanckelly44/output/github-snake.svg" />
+  <img alt="github-contribution-grid-snake" src="https://raw.githubusercontent.com/ryanckelly44/ryanckelly44/output/github-snake.svg" />
 </picture>
   <br><em>It'll get better... 🐍</em>
 </div>
