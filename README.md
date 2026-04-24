@@ -19,7 +19,6 @@ I'm working on it.
 <br>
 
 <img src="https://github-readme-stats.vercel.app/api?username=ryanckelly44&show_icons=true&theme=tokyonight" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ryanckelly44&layout=compact&theme=tokyonight" />
 
 <br>
 
