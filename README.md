@@ -5,8 +5,6 @@
 
 # Ryan Kelly <img src="https://iam-weijie.github.io/wave/hand-emoji.svg" alt="Animated Emoji" width="50" height="50">
 
-I'm working on it.
-
 ---
 
 <div align="center">
